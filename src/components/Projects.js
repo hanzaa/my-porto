@@ -9,7 +9,7 @@ const Projects = () => {
                 </div>
             </div>
             <div class="row pb-4 d-flex justify-content-center" >
-                <div class="col-xxl-3 col-lg-4 col-md-6 d-flex justify-content-center my-4">
+                <div class="col-xxl-3 col-md-6 d-flex justify-content-center my-4">
                     <div class="card" style={{width:"18rem"}}>
                         <img src="/logo512.png" class="card-img-top" alt="Prjoect Preview"/>
                         <div class="card-body">
@@ -17,7 +17,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div class="col-xxl-3 col-lg-4 col-md-6 d-flex justify-content-center my-4">
+                <div class="col-xxl-3 col-md-6 d-flex justify-content-center my-4">
                     <div class="card" style={{width:"18rem"}}>
                         <img src="/logo512.png" class="card-img-top" alt="Prjoect Preview"/>
                         <div class="card-body">
@@ -25,7 +25,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div class="col-xxl-3 col-lg-4 col-md-6 d-flex justify-content-center my-4">
+                <div class="col-xxl-3 col-md-6 d-flex justify-content-center my-4">
                     <div class="card" style={{width:"18rem"}}>
                         <img src="/logo512.png" class="card-img-top" alt="Prjoect Preview"/>
                         <div class="card-body">
@@ -33,7 +33,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div class="col-xxl-3 col-lg-4 col-md-6 d-flex justify-content-center my-4">
+                <div class="col-xxl-3 col-md-6 d-flex justify-content-center my-4">
                     <div class="card" style={{width:"18rem"}}>
                         <img src="/logo512.png" class="card-img-top" alt="Prjoect Preview"/>
                         <div class="card-body">
