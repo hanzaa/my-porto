@@ -3,10 +3,10 @@ const NavBar = ()=>{
         <>
         <nav class="navbar navbar-expand-lg bg-primary navbar-dark shadow-sm sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="#jumbotron">
             <img src="/logo512.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top m-2"/>
             </a>
-            <a class="navbar-brand" href="#">MyPorto | M. Farhan Zachary</a>
+            <a class="navbar-brand" href="#jumbotron">MyPorto | M. Farhan Zachary</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
