@@ -15,7 +15,7 @@ const Contact = () =>{
                     </svg>
                 </div>
                 <div class="col-2 col-md-3">
-                    <h4><a href="https://www.linkedin.com/in/m-farhan-zachary-935534186/" target="_blank">Linked In</a></h4>
+                    <h4><a href="https://www.linkedin.com/in/m-farhan-zachary-935534186/" target="_blank" rel="noopener noreferrer">Linked In</a></h4>
                 </div>
             </div>
             <br/>
@@ -37,7 +37,7 @@ const Contact = () =>{
                 </svg>
                 </div>
                 <div class="col-2 col-md-3">
-                    <h4><a href="https://www.instagram.com/farhan_zach/" target="_blank">Instagram</a></h4>
+                    <h4><a href="https://www.instagram.com/farhan_zach/" target="_blank" rel="noopener noreferrer">Instagram</a></h4>
                 </div>
             </div>
             <br/>
