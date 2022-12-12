@@ -11,10 +11,7 @@ const About = ()=>{
             </div>
             <div class="row text-center justify-content-center fs-5">
                 <div class="col-md mx-3">
-                    <p>Ipsum consectetur proident laborum est tempor enim fugiat. Minim aliquip minim consectetur minim dolor esse pariatur pariatur sit. Sint esse velit eiusmod laboris eu culpa anim non culpa pariatur Lorem adipisicing nisi. Fugiat laborum enim sunt pariatur voluptate ex cupidatat fugiat quis. Ut incididunt nisi laborum ut. Proident et duis velit elit qui.</p>
-                </div>
-                <div class="col-md mx-3">
-                    <p>Mollit commodo veniam ex voluptate enim labore. Dolore excepteur laboris est minim. Adipisicing fugiat labore ad pariatur in amet deserunt irure consequat. Cupidatat mollit cillum laboris exercitation enim cillum do. Ex sunt eu eiusmod amet. Amet Lorem quis ullamco est quis in aliqua laborum esse magna. In laborum excepteur ipsum duis mollit.</p>                    
+                    <p>I am a front-end web developer with a passion for building user-friendly and visually appealing websites. I have experience using React, a popular JavaScript library for building user interfaces, and constantly looking for ways to improve my skills and stay up-to-date with the latest web development trends. Lately, i have been interested in exploring the field of machine learning and are eager to learn more about it and potentially incorporate it into your work. I am driven, curious, and always willing to take on new challenges.</p>
                 </div>
             </div>
         </div>
