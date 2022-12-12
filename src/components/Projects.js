@@ -1,7 +1,7 @@
 const Projects = () => {
     return(
         <>
-        <div  id='projects' style={{backgroundColor:"#9aa9ff"}}>
+        <div  id='projects' style={{background: "linear-gradient(135deg, rgba(146,222,215,1) 13%, rgba(250,45,253,0.5499241933101365) 82%)"}}>
         <div class="container" >
             <div class="row text-center mb-4 ">
                 <div class="col ">
