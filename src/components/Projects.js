@@ -1,7 +1,7 @@
 const Projects = () => {
     return(
         <>
-        <div  id='projects' style={{background: "linear-gradient(135deg, rgba(146,222,215,1) 13%, rgba(250,45,253,0.5499241933101365) 82%)"}}>
+        <div  id='projects' style={{background: "#9aa9ff"}}>
         <div class="container" >
             <div class="row text-center mb-4 ">
                 <div class="col ">
@@ -26,16 +26,6 @@ const Projects = () => {
                         </a>
                         <div class="card-body">
                             <p class="card-text">Website marketplace untuk layanan freelancer untuk membantu para pekerja lepas memasarkan jasa yang mereka miliki dengan menghubungkan antara klien dengan para freelancer.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-4 d-flex justify-content-center my-4">
-                    <div class="card" >
-                        <a href='https://www.google.com/' target='_blank' rel='noopener noreferrer'>
-                        <img src={require("../assets/open-book.png")} class="card-img-top" alt="Prjoect Preview" width="100%" height="100%"/>    
-                        </a>
-                        <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
